@@ -13,9 +13,16 @@
 ## 구현 기능
 
 - 전체 언론사 Grid View
-  - 페이징
-  - 뉴스 구독 및 해제 기능
+  - 페이지네이션
+
 - 카테고리별 뉴스 리스트 View
-  - 페이징
-  - 뉴스 구독 및 해제 기능
+  - 페이지네이션
   - 프로그래스바 애니메이션 및 자동 넘김 연동
+ 
+https://github.com/sjuhan123/fe-news/assets/81420856/13849c0e-7922-475f-9fae-1c18d43adc7d
+ 
+- 뉴스 구독 및 해제 기능
+
+https://github.com/sjuhan123/fe-news/assets/81420856/abbdc55e-a58d-4ca6-9f36-dbb9c7be27ac
+
+
